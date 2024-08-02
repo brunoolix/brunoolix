@@ -1,6 +1,9 @@
 ## Hi there 👋
+## my name is bruno 
+## im just studing 
+## i like workout 
 
-<!--
+
 **brunoolix/brunoolix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
